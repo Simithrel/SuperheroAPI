@@ -8,3 +8,5 @@ be ran on a local file server but will access and display hero infomration
 
 This program requires access to REST API which requires 
 node.js > navigate to current file folder > in a terminal where the file is located run npm init -y
+
+A file server is required to run this program. It is currently configured to run of a XAAMP server.
